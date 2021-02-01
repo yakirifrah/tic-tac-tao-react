@@ -1,0 +1,8 @@
+.square{
+    background: lightblue;
+    border: 5px solid darkblue;
+    font-size: 50px;
+    font-weight: 800;
+    cursor: pointer;
+    outline: none;
+}
